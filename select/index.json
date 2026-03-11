@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "現状ディストラクション",
+  "base_artist": "SPYAIR",
+  "createdAt": "2026-03-11T09:34:54.965007Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "現状ディストラクション",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/01_現状ディストラクション_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "現状ディストラクション",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/02_現状ディストラクション_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "現状ディストラクション",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/03_現状ディストラクション_SPYAIR.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "現状ディストラクション",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/04_現状ディストラクション_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "現状ディストラクション",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/05_現状ディストラクション_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "現状ディストラクション (Inst)",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/06_現状ディストラクション_(Inst)_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "現状ディストラクション",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/07_現状ディストラクション_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "現状ディストラクション [Instrumental]",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/08_現状ディストラクション_[Instrumental]_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "現状ディストラクション",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/09_現状ディストラクション_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "現状ディストラクション [inst]",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/10_現状ディストラクション_[inst]_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "現状ディストラクション",
+      "artist": "GYROAXIA",
+      "has_synced": true,
+      "path": "select/11_現状ディストラクション_GYROAXIA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "現状ディストラクション",
+      "artist": "Argonavis",
+      "has_synced": true,
+      "path": "select/12_現状ディストラクション_Argonavis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "現状ディストラクション (JUST LIKE THIS 2023 Live)",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/13_現状ディストラクション_(JUST_LIKE_THIS_2023_Live)_SPYAIR.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "現状ディストラクション",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/pl_01_現状ディストラクション_SPYAIR.txt"
+    }
+  ]
+}
